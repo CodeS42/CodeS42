@@ -12,10 +12,10 @@
 
 ---
 
-### 🎓 Étudiante à 42 — Profil public
+### 🎓 Étudiante à 42 — Profil
 
 <p align="center">
-  <img src="https://badge42.vercel.app/api/v2/me/stats?cursusId=21&login=sgandum-" alt="sgandum-'s 42 stats" />
+  <img src="https://cdn.intra.42.fr/users/sgandum-.jpg" width="200" alt="Photo de Serena sur l'intranet 42" style="border-radius: 50%; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);" />
 </p>
 
 ---
@@ -46,3 +46,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WTk4ZxFHH3Gg9vlgc6/giphy.gif" width="350" alt="Dark clouds">
 </p>
+
