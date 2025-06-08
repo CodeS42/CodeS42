@@ -1,7 +1,7 @@
 <h1 align="center">☁️ Bienvenue sur mon GitHub ☁️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Étudiante+à+42+;+Développeuse+passionnée+;+Ambiance+pluvieuse,+clavier+lumineux...&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Étudiante+à+42&center=true&width=600&height=45">
 </p>
 
 ---
