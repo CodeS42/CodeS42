@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 
-Hi! I'm Serena, a computer science student at [42 Network](https://42.fr/)!
+Hi! I'm Serena, a computer science student at [42 School](https://42.fr/)!
 - I'm passionate about building smart, and useful tools. 
 - I'm interested in data science and cybersecurity, and curious about many other fields!
 
