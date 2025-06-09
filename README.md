@@ -7,7 +7,7 @@
 
 ### 🎓 Projects
 
-![Mes projets](./graph_projects.svg)
+[![Sudoku Solver](https://img.shields.io/badge/Sudoku_Solver-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeS42/Sudoku_Solver)
 
 ---
 
