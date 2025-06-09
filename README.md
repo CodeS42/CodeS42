@@ -7,7 +7,7 @@
 
 ### 🎓 Projects
 
-- `Sudoku_Solver`    ->  [🔗 Voir sur GitHub](https://github.com/CodeS42/Sudoku_Solver) 
+![Sudoku Solver](./graph_sudoku.svg)
 
 ---
 
