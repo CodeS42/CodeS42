@@ -5,10 +5,8 @@
 
 ---
 
-### 🎓 Étudiante à 42 
+### 🎓 Projects
 
-| Projet             | Lien                                                       |
-|--------------------|------------------------------------------------------------|
 | `Sudoku_Solver`    | [🔗 Voir sur GitHub](https://github.com/CodeS42/Sudoku_Solver) |
 
 ---
@@ -24,8 +22,4 @@
 ### 💬 Contact
 
 > 📧 www.linkedin.com/in/serena-gandum-077b96347
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WTk4ZxFHH3Gg9vlgc6/giphy.gif" width="350" alt="Dark clouds">
-</p>
 
