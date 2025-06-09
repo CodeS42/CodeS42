@@ -1,5 +1,12 @@
 <h1 align="center"> Bienvenue sur mon GitHub </h1>
 
+## 🤖 42 Profile
+
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/sgandum-?1337Badge=off&UM6P=off" alt="sgandum-'s 42 stats" /></a>
+</div>
+
+---
 
 ### 🖥️ Skills
 
@@ -18,14 +25,6 @@
 </p>
 
 ---
-
-## 🤖 42 Profile
-
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/sgandum-?1337Badge=off&UM6P=off" alt="sgandum-'s 42 stats" /></a>
-</div>
-
-<br>
 
 ### 🎓 Projects
 
