@@ -7,7 +7,7 @@
 
 ### 🎓 Projects
 
-![Sudoku Solver](./graph_sudoku.svg)
+![Mes projets](./graph_projects.svg)
 
 ---
 
