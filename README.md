@@ -1,8 +1,9 @@
-<h1 align="center">☁️ Bienvenue sur mon GitHub ☁️</h1>
+<h1 align="center"> Welcome </h1>
 
 <p align="center">
-  <i>“Nerd today, boss tomorrow.”</i>
+  <img src="https://raw.githubusercontent.com/CodeS42/CodeS42/refs/heads/main/NERD%20TODAY.png" alt="Banner" width="100%" />
 </p>
+
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
