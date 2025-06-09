@@ -6,10 +6,6 @@
   </a>
 </div>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeS42&layout=compact&langs_count=8&theme=tokyonight" />
-
-
 ---
 
 ### 🖥️ Skills
@@ -27,6 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeS42&layout=compact&langs_count=8&theme=tokyonight" />
 
 ---
 
