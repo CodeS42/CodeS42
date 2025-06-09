@@ -1,13 +1,17 @@
 <h1 align="center"> Bienvenue sur mon GitHub </h1>
 
-<p align="left">
-  <div align="left">
-    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/sgandum-?1337Badge=off&UM6P=off" alt="sgandum-'s 42 stats" /></a>
-  </div>
-  <div align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeS42&layout=compact&langs_count=8&theme=tokyonight" />
-  </div>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/darkblue/sgandum-?1337Badge=off&UM6P=off" alt="sgandum-'s 42 stats" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeS42&layout=compact&langs_count=8&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
