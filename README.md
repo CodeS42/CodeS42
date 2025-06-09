@@ -1,7 +1,4 @@
 <h1 align="center"> Bienvenue sur mon GitHub </h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Matrix code rain" width="200" />
-</p>
 
 ---
 
