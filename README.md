@@ -1,4 +1,7 @@
 <h1 align="center"> Bienvenue sur mon GitHub </h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/jrjv8CpXqWxy8/giphy.gif" alt="IA futuriste" width="600" />
+</p>
 
 
 ### 🎓 Projects
