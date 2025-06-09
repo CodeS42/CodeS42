@@ -1,6 +1,6 @@
 <h1 align="center"> Bienvenue sur mon GitHub </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Étudiante+à+42&center=true&width=600&height=45">
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Matrix code rain" width="200" />
 </p>
 
 ---
