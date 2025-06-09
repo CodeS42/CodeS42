@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeS42/CodeS42/refs/heads/main/NERD%20TODAY.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/CodeS42/CodeS42/refs/heads/main/NERD%20TODAY%20(2).png" alt="Banner" width="100%" />
 </p>
 
 ---
