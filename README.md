@@ -1,6 +1,5 @@
 <h1 align="center"> Bienvenue sur mon GitHub </h1>
 
----
 
 ### 🎓 Projects
 
