@@ -1,5 +1,4 @@
-<h1 align="center">☁️ Bienvenue sur mon GitHub ☁️</h1>
-
+<h1 align="center"> Bienvenue sur mon GitHub </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Étudiante+à+42&center=true&width=600&height=45">
 </p>
@@ -8,11 +7,9 @@
 
 ### 🎓 Étudiante à 42 
 
-| Projet             | Statut     | Lien                                                       |
-|--------------------|------------|------------------------------------------------------------|
-| `ft_irc`           | ✅ 125%     | *(Privé ou à ajouter)*                                     |
-| `ft_transcendence` | ✅ 125%     | *(Privé ou à ajouter)*                                     |
-| `Sudoku_Solver`    | 🧩 Open     | [🔗 Voir sur GitHub](https://github.com/CodeS42/Sudoku_Solver) |
+| Projet             | Lien                                                       |
+|--------------------|------------------------------------------------------------|
+| `Sudoku_Solver`    | [🔗 Voir sur GitHub](https://github.com/CodeS42/Sudoku_Solver) |
 
 ---
 
