@@ -1,9 +1,16 @@
-<h1 align="center"> Welcome </h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/CodeS42/CodeS42/refs/heads/main/NERD%20TODAY.png" alt="Banner" width="100%" />
 </p>
 
+---
+
+### 🧠 About Me
+
+Hi! I'm Serena, a computer science student at [42 Network](https://42.fr/)!
+- I'm passionate about building smart, and useful tools. 
+- I'm interested in data science and cybersecurity, and curious about many other fields!
+
+---
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
@@ -17,13 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeS42&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
----
-
-### 🧠 About Me
-
-Hi! I'm Serena, a computer science student at [42 Network](https://42.fr/)!
-I'm passionate about building smart, and useful tools. 
-I'm interested in data science and cybersecurity, and curious about many other fields!
 
 ---
 
