@@ -4,7 +4,7 @@
 
 ### 🎓 Projects
 
-[Sudoku_Solver](https://github.com/CodeS42/Sudoku_Solver)
+- [Sudoku_Solver](https://github.com/CodeS42/Sudoku_Solver)
 
 ---
 
