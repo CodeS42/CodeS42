@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodeS42/CodeS42/refs/heads/main/NERD%20TODAY%20(2).png" alt="Banner" width="100%" />
-</p>
-
----
-
 ### 🧠 About Me
 
 Hi! I'm Serena, a computer science student at [42 School](https://42.fr/)!
