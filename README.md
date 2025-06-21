@@ -7,7 +7,7 @@
   Passionate about building smart and useful tools. Curious by nature, I'm exploring AI, cybersecurity, and much more!
 </p>
 
-
+<br>
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-
+<br><br>
 
 ## 🛠️ Skills
 
@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
 </p>
 
-
+<br><br>
 
 ## 🚀 Personal Projects
 
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-
+<br><br>
 
 ## 📫 Contact Me
 
