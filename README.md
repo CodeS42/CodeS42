@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/CodeS42/Sudoku_Solver">
-    <img src="https://img.shields.io/badge/Sudoku%40Solver-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Sudoku Solver" />
+    <img src="https://img.shields.io/badge/Sudoku%20Solver-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" width="50" alt="Sudoku Solver" />
   </a>
   <a href="https://github.com/CodeS42/CSharp_Calculator">
     <img src="https://img.shields.io/badge/CSharp%20Calculator-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="C# Calculator" />
