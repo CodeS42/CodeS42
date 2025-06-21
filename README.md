@@ -7,7 +7,7 @@
   Passionate about building smart and useful tools. Curious by nature, I'm exploring AI, cybersecurity, and much more!
 </p>
 
----
+
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠️ Skills
 
@@ -33,20 +33,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
 </p>
 
----
+
 
 ## 🚀 Personal Projects
 
 <p align="center">
   <a href="https://github.com/CodeS42/Sudoku_Solver">
-    <img src="https://img.shields.io/badge/Sudoku__Solver-%231572B6?style=for-the-badge&logo=matrix&logoColor=white" alt="Sudoku Solver project" />
+    <img src="https://img.shields.io/badge/Sudoku%20Solver-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Sudoku Solver" />
   </a>
   <a href="https://github.com/CodeS42/CSharp_Calculator">
-    <img src="https://img.shields.io/badge/CSharp__Calculator-%231572B6?style=for-the-badge&logo=matrix&logoColor=white" alt="C# Calculator project" />
+    <img src="https://img.shields.io/badge/CSharp%20Calculator-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="C# Calculator" />
   </a>
 </p>
 
----
+
 
 ## 📫 Contact Me
 
