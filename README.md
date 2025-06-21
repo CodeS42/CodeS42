@@ -1,8 +1,5 @@
-### 🧠 About Me
-
 Hi! I'm Serena, a computer science student at [42 School](https://42.fr/)!
-- I'm passionate about building smart, and useful tools. 
-- I'm interested in data science and cybersecurity, and curious about many other fields!
+Passionate about building smart, and useful tools, I'm interested in AI and cybersecurity, and curious about many other fields!
 
 ---
 
@@ -39,13 +36,17 @@ Hi! I'm Serena, a computer science student at [42 School](https://42.fr/)!
 
 ---
 
-### 🎓 Projects
+### 🎓 Personnal Projects
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/CodeS42/Sudoku_Solver">
     <img src="https://img.shields.io/badge/Sudoku__Solver-%231572B6?style=for-the-badge&logo=matrix&logoColor=white" alt="Sudoku Solver project" />
   </a>
+  <a href="https://github.com/CodeS42/CSharp_Calculator">
+    <img src="https://img.shields.io/badge/CSharp__Calculator-%231572B6?style=for-the-badge&logo=matrix&logoColor=white" alt="C# Calculator project" />
+  </a>
 </div>
+
 
 ---
 
