@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Serena+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
-<h3 align="center">Computer science student at <a href="https://42.fr/">42 School</a> | AI & Cybersecurity Enthusiast</h3>
+<h3 align="center">Computer science student at <a href="https://42.fr/">42 School</a> | Interested in AI, Data Science & Algorithm Design</h3>
 
 <p align="center">
   Passionate about building smart and useful tools. Curious by nature, I'm exploring AI, cybersecurity, and much more!
