@@ -4,7 +4,7 @@
 <h3 align="center">Computer science student at <a href="https://42.fr/">42 School</a> | Interested in AI, Data Science & Algorithm Design</h3>
 
 <p align="center">
-  Passionate about building smart and useful tools. Curious by nature, I'm exploring AI, cybersecurity, and much more!
+  Passionate about designing intelligent and useful systems. Currently exploring AI, data science, and the development of algorithms.
 </p>
 
 <br>
